@@ -1,0 +1,1 @@
+<view><map style="width:100%;height:300rpx;" id="myMap" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{covers}}" alpha="{{0.5}}" show-location="{{true}}" data-event-opts="{{[['regionchange',[['regionchange',['$event']]]],['tap',[['handleTap',['$event']]]]]}}" bindregionchange="__e" bindtap="__e"></map></view>

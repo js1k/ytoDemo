@@ -1,0 +1,95 @@
+
+page{
+	width:100%;
+	height:100%;
+	background: -webkit-gradient(linear,left top, left bottom,from(#460EBA),to(#5F8AEE));
+	background: -o-linear-gradient(top,#460EBA 0%,#5F8AEE 100%);
+	background: linear-gradient(180deg,#460EBA 0%,#5F8AEE 100%);
+}
+.content {
+	width:100%;
+	height:100%;
+}
+.index-bar{
+	width:100%;
+	height:88rpx;
+	font-size:34rpx;
+	font-family:PingFangSC-Medium;
+	font-weight:500;
+	color:rgba(255,255,255,1);
+}
+.user-info{
+	padding-left:32rpx;
+	margin-top:12rpx;
+}
+.header-con{
+	width:92rpx;
+	height:92rpx;
+	border-radius: 50%;
+	margin-right:16rpx;
+	background:-webkit-gradient(linear,left bottom, left top,from(rgba(236,53,52,1)),color-stop(46%, rgba(246,141,90,1)),to(rgba(250,199,111,1)));
+	background:-o-linear-gradient(bottom,rgba(236,53,52,1) 0%,rgba(246,141,90,1) 46%,rgba(250,199,111,1) 100%);
+	background:linear-gradient(360deg,rgba(236,53,52,1) 0%,rgba(246,141,90,1) 46%,rgba(250,199,111,1) 100%);
+}
+.user-header{
+	width:84rpx;
+	height:84rpx;
+	border-radius: 50%;
+}
+.section{
+	width:100%;
+	height: 100%;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-flow: 1;
+	    -ms-flex-flow: 1;
+	        flex-flow: 1;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.user-name{
+	font-size:28rpx;
+	line-height: 1;
+	font-family:PingFangSC-Medium;
+	font-weight:500;
+	color:rgba(255,255,255,1);
+	margin-bottom:8rpx;
+}
+.level-ico{
+	width:88rpx;
+	height:40rpx
+}
+.theme-logo{
+	width:342rpx;
+	height:120rpx;
+}
+.season-title{
+	font-size:24rpx;
+	font-family:PingFangSC-Regular;
+	font-weight:400;
+	color:rgba(255,255,255,1);
+	margin: 4rpx 0 16rpx;
+}
+.season-theme{
+	font-size:38rpx;
+	font-family:PingFangSC-Medium;
+	font-weight:500;
+	color:rgba(255,216,94,1);
+}
+.season-img-con{
+	width:562rpx;
+	height:562rpx;
+	margin-top:32rpx;
+	margin-bottom:96rpx;
+}
+.season-icon{
+	width:562rpx;
+	height:562rpx;
+}
+.btn,.btn-con{
+	width:298rpx;
+	height:88rpx;
+}
+

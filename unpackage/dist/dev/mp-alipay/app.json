@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/mapTest/mapTest",
+    "pages/homepage/homepage",
+    "pages/index/index",
+    "pages/mapTest/mapTest",
+    "pages/charge/charge"
+  ],
+  "window": {
+    "defaultTitle": "uni-app",
+    "titleBarColor": "#490B68",
+    "backgroundColor": "white"
+  },
+  "tabBar": {
+    "textColor": "#7A7E83",
+    "selectedColor": "#490B68",
+    "backgroundColor": "#ffffff",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "主页",
+        "icon": "static/global/index_icon.png",
+        "activeIcon": "static/global/index_selected.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "name": "搜索",
+        "icon": "static/global/search_icon.png",
+        "activeIcon": "static/global/search_selected.png"
+      },
+      {
+        "pagePath": "pages/homepage/homepage",
+        "name": "我的",
+        "icon": "static/global/homepage_icon.png",
+        "activeIcon": "static/global/homepage_selected.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
