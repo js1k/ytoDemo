@@ -129,7 +129,7 @@ var _default =
       }, {
         latitude: 39.90,
         longitude: 116.39,
-        iconPath: '../../static/location.png' }],
+        iconPath: '../../static/homepage/location.png' }],
 
       circles: [{
         latitude: '',
@@ -171,5 +171,5 @@ var _default =
 
 /***/ })
 
-},[[14,"common/runtime","common/vendor"]]]);
+},[[44,"common/runtime","common/vendor"]]]);
 //# sourceMappingURL=../../../.sourcemap/mp-baidu/pages/mapTest/mapTest.js.map

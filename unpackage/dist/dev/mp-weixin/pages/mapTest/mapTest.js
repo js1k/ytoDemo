@@ -129,7 +129,7 @@ var _default =
       }, {
         latitude: 39.90,
         longitude: 116.39,
-        iconPath: '../../static/location.png' }],
+        iconPath: '../../static/homepage/location.png' }],
 
       circles: [{
         latitude: '',

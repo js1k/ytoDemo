@@ -3,7 +3,6 @@
     "pages/mapTest/mapTest",
     "pages/homepage/homepage",
     "pages/index/index",
-    "pages/mapTest/mapTest",
     "pages/charge/charge"
   ],
   "window": {

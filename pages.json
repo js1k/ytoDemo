@@ -18,10 +18,6 @@
 				"navigationBarTitleText": "uni-app"
 				// "titleNView":false
 			}
-		},
-		{
-		    "path" : "pages/mapTest/mapTest",
-		    "style" : {}
 		}
         ,{
             "path" : "pages/charge/charge",

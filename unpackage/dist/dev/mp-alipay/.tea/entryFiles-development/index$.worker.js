@@ -21,7 +21,6 @@ require('../../app');
 require('../../pages/mapTest/mapTest');
 require('../../pages/homepage/homepage');
 require('../../pages/index/index');
-require('../../pages/mapTest/mapTest');
 require('../../pages/charge/charge');
 }
 self.bootstrapApp ? self.bootstrapApp({ success }) : success();
